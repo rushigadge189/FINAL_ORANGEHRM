@@ -892,3 +892,559 @@
  2023-08-13 21:10:41,855 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 80 :Click Save Button 
  2023-08-13 21:10:42,938 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 83 :Cheking Success Message 
  2023-08-13 21:10:42,997 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 94 :Testcase test_ddt_addemp_004 Is Completed 
+ 2023-08-13 21:33:57,664 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:33:57,664 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:33:57,675 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:33:57,675 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:33:57,675 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:33:57,675 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:33:57,806 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:33:57,806 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:33:57,935 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:33:57,935 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:33:58,077 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:33:58,077 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:34:00,891 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:34:00,891 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:34:01,914 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:34:01,914 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:34:02,529 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 21:34:02,529 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 21:34:02,610 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 21:34:02,610 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 21:34:02,695 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 21:34:02,695 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 21:34:02,726 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 21:34:02,726 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 21:34:10,455 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 21:34:10,455 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 21:34:11,523 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 21:34:11,523 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 21:34:11,579 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 21:34:11,579 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 21:34:11,763 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 21:34:11,763 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 21:34:11,763 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 21:34:11,763 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 21:34:22,614 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 21:34:22,614 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 21:34:22,614 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 21:34:22,614 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 21:34:22,615 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 21:34:22,615 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 21:34:22,724 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 21:34:22,724 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 21:34:22,827 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 21:34:22,827 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 21:34:22,933 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 21:34:22,933 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 21:34:25,587 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 21:34:25,587 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 21:34:42,689 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 21:34:42,689 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 21:34:42,690 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 21:34:42,801 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 21:34:42,907 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 21:34:44,265 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 21:34:44,281 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 21:34:45,951 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 21:34:46,991 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 21:34:47,621 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 68 :Enter Middle Name 
+ 2023-08-13 21:34:47,716 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 71 :Enter Last Name 
+ 2023-08-13 21:34:47,804 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 74 :Get Employee Value 
+ 2023-08-13 21:34:47,851 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 77 :Uploading Image 
+ 2023-08-13 21:34:53,391 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 80 :Click Save Button 
+ 2023-08-13 21:34:54,470 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 83 :Cheking Success Message 
+ 2023-08-13 21:34:54,579 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 94 :Testcase test_ddt_addemp_004 Is Completed 
+ 2023-08-13 21:35:04,925 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 21:35:04,925 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 21:35:04,943 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 21:35:05,084 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 21:35:05,084 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:35:15,826 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 21:35:15,826 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 21:35:15,826 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 21:35:15,826 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 21:35:15,931 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 21:35:16,040 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 21:35:16,156 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 21:35:18,274 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 21:35:18,440 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 21:35:18,510 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 21:35:19,816 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 21:35:19,816 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:36:43,299 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:36:43,299 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:36:43,300 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:36:43,300 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:36:43,300 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:36:43,300 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:36:43,466 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:36:43,466 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:36:43,593 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:36:43,593 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:36:43,695 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:36:43,695 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:36:46,806 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:36:46,806 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:36:48,523 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:36:48,523 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 21:37:08,095 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 21:37:08,200 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 21:37:08,200 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 21:37:08,312 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 21:37:08,312 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 21:37:08,419 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 21:37:08,419 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 21:37:11,964 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 21:37:11,964 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 21:37:12,744 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 21:37:12,744 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 21:37:15,820 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 21:37:15,820 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 21:37:21,736 : INFO : Test_Add_Emp: test_Search_Emp_004 : 68 :Testcase test_Search_Emp_004 Is Failde 
+ 2023-08-13 21:37:21,736 : INFO : Test_Add_Emp: test_Search_Emp_004 : 68 :Testcase test_Search_Emp_004 Is Failde 
+ 2023-08-13 21:37:36,131 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 21:37:36,132 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 21:37:36,135 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 21:37:36,318 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 21:37:36,450 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 21:37:36,614 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 21:37:36,639 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 21:37:39,509 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 21:37:40,583 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 21:37:57,995 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 21:37:57,996 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 21:37:58,006 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 21:37:58,314 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 21:37:58,314 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:38:09,507 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 21:38:09,507 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 21:38:09,507 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 21:38:09,507 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 21:38:09,614 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 21:38:09,728 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 21:38:09,839 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 21:38:11,593 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 21:38:12,546 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 21:38:12,737 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 21:38:13,654 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 21:38:13,654 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:40:08,418 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:40:08,418 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:40:08,419 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:40:08,571 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:40:08,685 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:40:08,795 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:40:17,932 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:40:20,426 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:42:17,092 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 21:42:17,092 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 21:42:17,109 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 21:42:17,338 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 21:42:17,338 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:42:27,928 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 21:42:27,928 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 21:42:27,928 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 21:42:27,928 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 21:42:28,085 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 21:42:28,200 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 21:42:28,304 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 21:42:29,866 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 21:42:30,665 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 21:42:30,803 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 21:42:31,686 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 21:42:31,686 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 21:45:03,626 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:45:03,626 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:45:03,627 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:45:03,735 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:45:03,875 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:45:03,992 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:45:07,685 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:45:09,248 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:48:26,777 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:48:26,823 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:48:26,823 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:48:26,956 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:48:27,071 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:48:27,181 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:48:29,897 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:48:30,982 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:48:31,593 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 21:48:31,685 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 21:55:17,435 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:55:17,484 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:55:17,484 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:55:17,659 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:55:17,812 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:55:17,964 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:55:21,174 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:55:22,724 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:55:23,280 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 21:57:14,059 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:57:14,059 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:57:14,060 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:57:14,205 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:57:14,322 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:57:14,455 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:57:17,659 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:57:19,096 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:57:19,563 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 21:59:48,921 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 21:59:48,921 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 21:59:48,922 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 21:59:49,028 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 21:59:49,143 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 21:59:49,251 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 21:59:52,243 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 21:59:53,324 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 21:59:54,004 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:01:50,559 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:01:50,559 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:01:50,560 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:01:50,668 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:01:50,781 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:01:50,887 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:01:53,961 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:01:55,077 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:01:55,751 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:04:40,452 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 22:04:40,452 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 22:04:40,454 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 22:04:40,563 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 22:04:40,681 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 22:04:40,872 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 22:04:40,890 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 22:04:43,748 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 22:04:44,951 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 22:04:45,442 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 68 :Enter Middle Name 
+ 2023-08-13 22:06:39,707 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:06:39,707 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:06:39,708 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:06:39,815 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:06:39,929 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:06:40,034 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:06:42,725 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:06:44,089 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:06:44,600 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:07:06,054 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:07:06,054 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:07:06,055 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:07:06,159 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:07:06,273 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:07:06,378 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:07:10,585 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:07:12,020 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:07:12,514 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:08:12,544 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:08:12,544 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:08:12,544 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:08:12,675 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:08:12,818 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:08:12,965 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:08:16,419 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:08:17,987 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:08:18,517 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:08:18,648 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:08:18,786 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:08:19,138 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:08:26,233 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 22:08:27,335 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 22:08:27,557 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 22:08:27,916 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 22:08:27,917 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 22:09:14,364 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:09:14,365 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:09:14,365 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:09:14,483 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:09:14,630 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:09:14,737 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:09:18,771 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:09:19,561 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:09:22,631 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:09:28,015 : INFO : Test_Add_Emp: test_Search_Emp_004 : 68 :Testcase test_Search_Emp_004 Is Failde 
+ 2023-08-13 22:12:21,583 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:12:21,584 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:12:21,584 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:12:21,708 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:12:21,832 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:12:23,203 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:12:25,317 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:12:26,026 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:12:29,109 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:12:29,146 : INFO : Test_Add_Emp: test_Search_Emp_004 : 59 :Printed Firstname And Middle Name 
+ 2023-08-13 22:12:29,146 : INFO : Test_Add_Emp: test_Search_Emp_004 : 60 :Testcase test_Search_Emp_004 Is Passed 
+ 2023-08-13 22:12:29,461 : INFO : Test_Add_Emp: test_Search_Emp_004 : 71 :Testcase test_Search_Emp_004 Is Completed 
+ 2023-08-13 22:13:10,093 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 22:13:10,093 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 22:13:10,095 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 22:13:10,208 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 22:13:10,324 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 22:13:10,519 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 22:13:10,535 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 22:13:13,939 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 22:13:15,351 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 22:13:15,844 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 68 :Enter Middle Name 
+ 2023-08-13 22:13:15,994 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 71 :Enter Last Name 
+ 2023-08-13 22:13:16,099 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 74 :Get Employee Value 
+ 2023-08-13 22:13:16,514 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 77 :Uploading Image 
+ 2023-08-13 22:13:21,604 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 80 :Click Save Button 
+ 2023-08-13 22:13:22,739 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 83 :Cheking Success Message 
+ 2023-08-13 22:13:22,828 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 94 :Testcase test_ddt_addemp_004 Is Completed 
+ 2023-08-13 22:41:33,335 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 22:41:33,383 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 22:41:33,392 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 22:41:33,519 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 22:41:33,521 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 22:41:33,526 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 22:41:33,649 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:41:33,649 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:41:33,650 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:41:33,650 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:41:33,650 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:41:33,650 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:41:33,788 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 22:41:33,789 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:41:33,807 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 22:41:33,874 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:41:33,874 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:41:34,046 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 22:41:34,087 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:41:34,087 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:41:34,300 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:41:34,300 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:41:35,668 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:41:35,668 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:41:35,669 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:41:35,669 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:41:35,669 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:41:35,669 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:41:35,729 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 22:41:35,768 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 22:41:35,853 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:41:35,853 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:41:36,035 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:41:36,035 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:41:36,195 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:41:36,195 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:41:38,013 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:41:38,013 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:41:38,116 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 22:41:39,229 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:41:39,229 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:41:40,523 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:41:40,523 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:41:40,890 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 22:41:41,595 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 68 :Enter Middle Name 
+ 2023-08-13 22:41:41,756 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 71 :Enter Last Name 
+ 2023-08-13 22:41:41,883 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 74 :Get Employee Value 
+ 2023-08-13 22:41:42,209 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 77 :Uploading Image 
+ 2023-08-13 22:41:42,404 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:41:42,404 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:41:42,502 : INFO : Test_Add_Emp: test_Search_Emp_004 : 59 :Printed Firstname And Middle Name 
+ 2023-08-13 22:41:42,502 : INFO : Test_Add_Emp: test_Search_Emp_004 : 59 :Printed Firstname And Middle Name 
+ 2023-08-13 22:41:42,502 : INFO : Test_Add_Emp: test_Search_Emp_004 : 60 :Testcase test_Search_Emp_004 Is Passed 
+ 2023-08-13 22:41:42,502 : INFO : Test_Add_Emp: test_Search_Emp_004 : 60 :Testcase test_Search_Emp_004 Is Passed 
+ 2023-08-13 22:41:42,572 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:41:42,572 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:41:42,870 : INFO : Test_Add_Emp: test_Search_Emp_004 : 71 :Testcase test_Search_Emp_004 Is Completed 
+ 2023-08-13 22:41:42,870 : INFO : Test_Add_Emp: test_Search_Emp_004 : 71 :Testcase test_Search_Emp_004 Is Completed 
+ 2023-08-13 22:41:43,381 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:41:43,381 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:41:43,528 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:41:43,528 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:41:43,682 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:41:43,682 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:41:44,438 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:41:44,438 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:41:47,443 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 80 :Click Save Button 
+ 2023-08-13 22:41:48,540 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 83 :Cheking Success Message 
+ 2023-08-13 22:41:49,285 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 94 :Testcase test_ddt_addemp_004 Is Completed 
+ 2023-08-13 22:41:51,569 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 22:41:51,569 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 22:41:52,657 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 22:41:52,657 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 22:41:52,694 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 22:41:52,694 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 22:41:53,146 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 22:41:53,146 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 22:41:53,147 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 22:41:53,147 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 22:42:05,852 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 22:42:05,853 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 22:42:05,853 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 22:42:05,853 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 22:42:05,964 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 22:42:06,078 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 22:42:06,191 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 22:42:08,374 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 22:42:09,047 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 22:42:09,135 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 22:42:10,614 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 22:42:10,614 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:52:06,070 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:52:06,070 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:52:06,141 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:52:06,141 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:52:06,142 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:52:06,142 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:52:06,484 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 22:52:06,484 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 22:52:06,513 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 22:52:06,513 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 22:52:06,663 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 22:52:06,706 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 22:52:06,707 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 22:52:06,707 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 22:52:06,708 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 22:52:07,006 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 22:52:07,090 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:52:07,090 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:52:07,091 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:52:07,091 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:52:07,091 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:52:07,091 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:52:07,722 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 22:52:07,799 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 22:52:07,801 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:52:07,907 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:52:07,907 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:52:07,954 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 22:52:08,103 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 22:52:08,185 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 22:52:08,289 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:52:08,289 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:52:08,358 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:52:08,358 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:52:08,721 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:52:08,721 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:52:10,691 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 22:52:10,911 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 22:52:10,985 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 22:52:11,388 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:52:11,388 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:52:11,907 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:52:11,907 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:52:13,707 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 22:52:16,697 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 22:52:17,190 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:52:17,190 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:52:17,490 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 22:52:18,510 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 22:52:20,000 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 22:52:20,000 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:52:20,345 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:52:20,345 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:52:21,542 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:52:21,542 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:52:22,434 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:52:22,434 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:52:22,447 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 65 :Enter First Name 
+ 2023-08-13 22:52:24,283 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 68 :Enter Middle Name 
+ 2023-08-13 22:52:24,363 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:52:24,363 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:52:24,690 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:52:24,690 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:52:24,726 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 71 :Enter Last Name 
+ 2023-08-13 22:52:24,885 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:52:24,885 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:52:24,953 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 74 :Get Employee Value 
+ 2023-08-13 22:52:24,962 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:52:24,962 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:52:25,015 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:52:25,015 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:52:25,078 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 77 :Uploading Image 
+ 2023-08-13 22:52:30,535 : INFO : Test_Add_Emp: test_Search_Emp_004 : 68 :Testcase test_Search_Emp_004 Is Failde 
+ 2023-08-13 22:52:30,535 : INFO : Test_Add_Emp: test_Search_Emp_004 : 68 :Testcase test_Search_Emp_004 Is Failde 
+ 2023-08-13 22:52:31,332 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 80 :Click Save Button 
+ 2023-08-13 22:52:32,596 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 83 :Cheking Success Message 
+ 2023-08-13 22:52:33,548 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 94 :Testcase test_ddt_addemp_004 Is Completed 
+ 2023-08-13 22:53:14,561 : INFO : Test_Login: test_login_002 : 43 : Testcase test_login_002 Is Started  
+ 2023-08-13 22:53:14,562 : INFO : Test_Login: test_login_002 : 45 : TestCase test_login_002 iS Started  
+ 2023-08-13 22:53:14,564 : INFO : Test_Login: test_login_002 : 46 : Opening The Browser  
+ 2023-08-13 22:53:14,564 : INFO : Test_Login: test_login_002 : 52 : Entering Username Admin 
+ 2023-08-13 22:53:15,616 : INFO : Test_Login: test_login_002 : 55 : Entering Password admin123 
+ 2023-08-13 22:53:15,718 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 28 : Testcase test_ddt_addemp_004 Is Started  
+ 2023-08-13 22:53:15,718 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 30 : Opening The Browser  
+ 2023-08-13 22:53:15,720 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 38 : Entering Username Admin 
+ 2023-08-13 22:53:15,847 : INFO : Test_Login: test_login_002 : 58 : Clicking On Login Button  
+ 2023-08-13 22:53:15,922 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:53:15,922 : INFO : Test_Add_Emp: test_Search_Emp_004 : 26 : Testcase test_Search_Emp_004 Is Started  
+ 2023-08-13 22:53:15,923 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:53:15,923 : INFO : Test_Add_Emp: test_Search_Emp_004 : 28 : Opening The Browser  
+ 2023-08-13 22:53:15,924 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:53:15,924 : INFO : Test_Add_Emp: test_Search_Emp_004 : 34 : Entering Username Admin 
+ 2023-08-13 22:53:15,975 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 41 : Entering Password admin123 
+ 2023-08-13 22:53:16,022 : INFO : Test_Login: test_login_002 : 61 : Checking for Login Status  
+ 2023-08-13 22:53:16,220 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:53:16,220 : INFO : Test_Add_Emp: test_Search_Emp_004 : 37 : Entering Password admin123 
+ 2023-08-13 22:53:16,575 : INFO : Test_Login: test_page_title_001 : 23 : Testcase test_page_title_001 Is started  
+ 2023-08-13 22:53:16,575 : INFO : Test_Login: test_page_title_001 : 24 : Opening The Browser  
+ 2023-08-13 22:53:16,771 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 44 : Clicking On Login Button  
+ 2023-08-13 22:53:17,022 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:53:17,022 : INFO : Test_Add_Emp: test_Search_Emp_004 : 40 : Clicking On Login Button  
+ 2023-08-13 22:53:17,046 : INFO : Test_Login: test_page_title_001 : 28 : Page Title Is = OrangeHRM 
+ 2023-08-13 22:53:17,152 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 52 :Performing DDT 
+ 2023-08-13 22:53:17,207 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 59 :Click Pim 
+ 2023-08-13 22:53:17,240 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:53:17,240 : INFO : Test_Add_Emp: test_add_emp_003 : 25 : Testcase test_add_emp_003 Is Started  
+ 2023-08-13 22:53:17,241 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:53:17,241 : INFO : Test_Add_Emp: test_add_emp_003 : 27 : Opening The Browser  
+ 2023-08-13 22:53:17,242 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:53:17,242 : INFO : Test_Add_Emp: test_add_emp_003 : 33 : Entering Username Admin 
+ 2023-08-13 22:53:17,461 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:53:17,461 : INFO : Test_Add_Emp: test_Search_Emp_004 : 45 :Click Pim 
+ 2023-08-13 22:53:17,680 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:53:17,680 : INFO : Test_Add_Emp: test_add_emp_003 : 36 : Entering Password admin123 
+ 2023-08-13 22:53:17,806 : INFO : Test_Login: test_page_title_001 : 33 : Testcase test_page_title_001 Is Passed  
+ 2023-08-13 22:53:17,806 : INFO : Test_Login: test_page_title_001 : 40 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:53:17,896 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:53:17,896 : INFO : Test_Add_Emp: test_add_emp_003 : 39 : Clicking On Login Button  
+ 2023-08-13 22:53:18,177 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:53:18,177 : INFO : Test_Add_Emp: test_add_emp_003 : 44 :Click Pim 
+ 2023-08-13 22:53:18,596 : INFO : Test_Login: test_login_002 : 63 : Taking Screenshot  
+ 2023-08-13 22:53:20,090 : INFO : Test_Login: test_login_002 : 67 : Clicking On Menu Button  
+ 2023-08-13 22:53:21,312 : INFO : Test_Login: test_login_002 : 70 : Clicking On Logout Button  
+ 2023-08-13 22:53:22,012 : INFO : Test_Ddt_Add_Emp: test_ddt_addemp_004 : 62 :Click Add Emp Button 
+ 2023-08-13 22:53:23,446 : INFO : Test_Login: test_login_002 : 73 : Testcase test_login_002 Is Passed  
+ 2023-08-13 22:53:23,446 : INFO : Test_Login: test_login_002 : 82 :Testcase test_login_002 Is Completed 
+ 2023-08-13 22:53:23,893 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:53:23,893 : INFO : Test_Add_Emp: test_Search_Emp_004 : 50 :Enter Emp ID 
+ 2023-08-13 22:53:24,310 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:53:24,310 : INFO : Test_Add_Emp: test_add_emp_003 : 47 :Click Add Emp Button 
+ 2023-08-13 22:53:24,797 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:53:24,797 : INFO : Test_Add_Emp: test_Search_Emp_004 : 53 :Click On Search Button 
+ 2023-08-13 22:53:26,124 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:53:26,124 : INFO : Test_Add_Emp: test_add_emp_003 : 50 :Enter First Name 
+ 2023-08-13 22:53:26,799 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:53:26,799 : INFO : Test_Add_Emp: test_add_emp_003 : 53 :Enter Middle Name 
+ 2023-08-13 22:53:26,915 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:53:26,915 : INFO : Test_Add_Emp: test_add_emp_003 : 56 :Enter Last Name 
+ 2023-08-13 22:53:27,093 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:53:27,093 : INFO : Test_Add_Emp: test_add_emp_003 : 59 :Get Employee Value 
+ 2023-08-13 22:53:27,153 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:53:27,153 : INFO : Test_Add_Emp: test_add_emp_003 : 62 :Uploading Image 
+ 2023-08-13 22:53:27,914 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:53:27,914 : INFO : Test_Add_Emp: test_Search_Emp_004 : 57 :Checking On search Results 
+ 2023-08-13 22:53:27,983 : INFO : Test_Add_Emp: test_Search_Emp_004 : 59 :Printed Firstname And Middle Name 
+ 2023-08-13 22:53:27,983 : INFO : Test_Add_Emp: test_Search_Emp_004 : 59 :Printed Firstname And Middle Name 
+ 2023-08-13 22:53:27,983 : INFO : Test_Add_Emp: test_Search_Emp_004 : 60 :Testcase test_Search_Emp_004 Is Passed 
+ 2023-08-13 22:53:27,983 : INFO : Test_Add_Emp: test_Search_Emp_004 : 60 :Testcase test_Search_Emp_004 Is Passed 
+ 2023-08-13 22:53:28,459 : INFO : Test_Add_Emp: test_Search_Emp_004 : 71 :Testcase test_Search_Emp_004 Is Completed 
+ 2023-08-13 22:53:28,459 : INFO : Test_Add_Emp: test_Search_Emp_004 : 71 :Testcase test_Search_Emp_004 Is Completed 
+ 2023-08-13 22:53:34,682 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 22:53:34,682 : INFO : Test_Add_Emp: test_add_emp_003 : 66 :Click Save Button 
+ 2023-08-13 22:53:35,957 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 22:53:35,957 : INFO : Test_Add_Emp: test_add_emp_003 : 69 :Cheking Success Message 
+ 2023-08-13 22:53:36,018 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 22:53:36,018 : INFO : Test_Add_Emp: test_add_emp_003 : 71 :Taking Screenshots 
+ 2023-08-13 22:53:36,686 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 22:53:36,686 : INFO : Test_Add_Emp: test_add_emp_003 : 74 :Testcase test_add_emp_003 Passed 
+ 2023-08-13 22:53:36,687 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 
+ 2023-08-13 22:53:36,687 : INFO : Test_Add_Emp: test_add_emp_003 : 83 :Testcase test_add_emp_003 Is Completed 

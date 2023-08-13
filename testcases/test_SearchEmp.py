@@ -48,7 +48,7 @@ class Test_Add_Emp():
         self.se=Search_Emp(self.driver);
 
         self.log.info("Enter Emp ID") ;
-        self.se.enter_empid("0268");
+        self.se.enter_empid("0258");
 
         self.log.info("Click On Search Button") ;
         self.se.click_search_button();
@@ -65,7 +65,7 @@ class Test_Add_Emp():
         else:
             allure.attach(self.driver.get_screenshot_as_png(),name="test_Search_Emp_004_pass.png",attachment_type=AttachmentType.PNG) ;
             self.driver.save_screenshot("D:\\PYTHON CT15\\OrangeHRM\\screenshots\\test_Search_Emp_004_fail.png") ;
-            self.log.info("Testcase test_Search_Emp_004 Is Failde")
+            self.log.info("Testcase test_Search_Emp_004 Is Failed")
             assert False ;
 
         self.log.info( "Testcase test_Search_Emp_004 Is Completed" ) ;

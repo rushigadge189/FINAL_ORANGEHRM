@@ -5,15 +5,15 @@ from selenium.webdriver.common.by import By
 from pynput.keyboard import Key, Controller
 
 class Add_Emp ():
-    click_pim_xpath=(By.XPATH, '//span[text()="PIM"]') ;
+    click_pim_xpath=(By.XPATH,'//a[@href="/web/index.php/pim/viewPimModule"]') ;
     click_add_emp_xpath=(By.XPATH, '//i[@class="oxd-icon bi-plus oxd-button-icon"]') ;
-    text_firstname_xpath=(By.XPATH, '//input[@placeholder="First Name"]') ;
-    text_middlename_xpath=(By.XPATH, '//input[@placeholder="Middle Name"]') ;
-    text_lastname_xpath=(By.XPATH, '//input[@placeholder="Last Name"]') ;
-    upload_img_xpath=(By.XPATH, "//i[@class='oxd-icon bi-plus']") ;
+    text_firstname_xpath=(By.XPATH, '//input[@name="firstName"]') ;
+    text_middlename_xpath=(By.XPATH, '//input[@name="middleName"]') ;
+    text_lastname_xpath=(By.XPATH, '//input[@name="lastName"]') ;
+    upload_img_xpath=(By.XPATH, "//button[@class='oxd-icon-button oxd-icon-button--solid-main employee-image-action']") ;
     click_save_button_xpath=(By.XPATH, '//button[@type="submit"]') ;
     success_message_xpath=(By.XPATH, "//p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']") ;
-    get_id_xpath=(By.XPATH, '(//input[@class="oxd-input oxd-input--active"])[2]') ;
+    get_id_xpath=(By.XPATH, "/html[1]/body[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/form[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/input[1]") ;
 
     def __init__(self,driver):
         self.driver=driver ;
@@ -35,9 +35,10 @@ class Add_Emp ():
 
     def upload_img(self):
         self.driver.find_element(*Add_Emp.upload_img_xpath).click() ;
-        time.sleep(3) ;
+        time.sleep(2) ;
         keyboard= Controller();
         keyboard.type("D:\\PYTHON CT15\\OrangeHRM\\testdata\\logo.jpg") ;
+        time.sleep(2)
         keyboard.press(Key.enter) ;
         keyboard.release(Key.enter) ;
         time.sleep(2) ;
