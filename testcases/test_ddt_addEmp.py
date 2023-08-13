@@ -23,9 +23,9 @@ class Test_Ddt_Add_Emp():
     @allure.issue("ABC123")
     @allure.story("This Is Story #1 ")
 
-    def test_ddt_addemp_004(self,setup):
+    def test_ddt_addemp_005(self,setup):
 
-        self.log.info(" Testcase test_ddt_addemp_004 Is Started ") ;
+        self.log.info(" Testcase test_ddt_addemp_005 Is Started ") ;
 
         self.log.info(" Opening The Browser ") ;
 
@@ -91,4 +91,4 @@ class Test_Ddt_Add_Emp():
                 XUTilities.writeData(path, "Sheet1", r, 4,"ERROR")
                 assert  False;
 
-        self.log.info( "Testcase test_ddt_addemp_004 Is Completed" ) ;
+        self.log.info( "Testcase test_ddt_addemp_005 Is Completed" ) ;
