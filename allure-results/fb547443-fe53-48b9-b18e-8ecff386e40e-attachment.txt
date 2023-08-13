@@ -1,0 +1,13 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:133 The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\RUSHIKESH\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (115.0.5790.110); currently, chromedriver 115.0.5790.170 is recommended for chrome 115.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Login:test_login.py:43  Testcase test_login_002 Is Started 
+[32mINFO    [0m Test_Login:test_login.py:45  TestCase test_login_002 iS Started 
+[32mINFO    [0m Test_Login:test_login.py:46  Opening The Browser 
+[32mINFO    [0m Test_Login:test_login.py:52  Entering Username Admin
+[32mINFO    [0m Test_Login:test_login.py:55  Entering Password admin123
+[32mINFO    [0m Test_Login:test_login.py:58  Clicking On Login Button 
+[32mINFO    [0m Test_Login:test_login.py:61  Checking for Login Status 
+[32mINFO    [0m Test_Login:test_login.py:63  Taking Screenshot 
+[32mINFO    [0m Test_Login:test_login.py:67  Clicking On Menu Button 
+[32mINFO    [0m Test_Login:test_login.py:70  Clicking On Logout Button 
+[32mINFO    [0m Test_Login:test_login.py:73  Testcase test_login_002 Is Passed 
+[32mINFO    [0m Test_Login:test_login.py:82 Testcase test_login_002 Is Completed

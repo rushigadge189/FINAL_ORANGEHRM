@@ -1,0 +1,13 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:133 The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\RUSHIKESH\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (115.0.5790.110); currently, chromedriver 115.0.5790.170 is recommended for chrome 115.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:26  Testcase test_Search_Emp_004 Is Started 
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:28  Opening The Browser 
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:34  Entering Username Admin
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:37  Entering Password admin123
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:40  Clicking On Login Button 
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:45 Click Pim 
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:50 Enter Emp ID
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:53 Click On Search Button
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:57 Checking On search Results
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:59 Printed Firstname And Middle Name
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:60 Testcase test_Search_Emp_004 Is Passed
+[32mINFO    [0m Test_Add_Emp:test_SearchEmp.py:71 Testcase test_Search_Emp_004 Is Completed

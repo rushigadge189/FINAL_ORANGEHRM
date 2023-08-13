@@ -1,0 +1,5 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:133 The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\RUSHIKESH\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (115.0.5790.110); currently, chromedriver 115.0.5790.170 is recommended for chrome 115.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Login:test_login.py:9  Testcase test_page_title_001 Is started 
+[32mINFO    [0m Test_Login:test_login.py:10  Opening The Browser 
+[32mINFO    [0m Test_Login:test_login.py:14  Page Title Is = OrangeHRM
+[32mINFO    [0m Test_Login:test_login.py:19  Testcase test_page_title_001 Is Passed

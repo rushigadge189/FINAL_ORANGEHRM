@@ -1,0 +1,16 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:133 The chromedriver version (115.0.5790.102) detected in PATH at C:\Users\RUSHIKESH\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (115.0.5790.110); currently, chromedriver 115.0.5790.170 is recommended for chrome 115.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:25  Testcase test_add_emp_003 Is Started 
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:27  Opening The Browser 
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:33  Entering Username Admin
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:36  Entering Password admin123
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:39  Clicking On Login Button 
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:44 Click Pim 
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:47 Click Add Emp Button
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:50 Enter First Name
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:53 Enter Middle Name
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:56 Enter Last Name
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:63 Click Save Button
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:66 Cheking Success Message
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:68 Taking Screenshots
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:71 Testcase test_add_emp_003 Passed
+[32mINFO    [0m Test_Add_Emp:test_Add_Emp.py:80 Testcase test_add_emp_003 Is Completed
